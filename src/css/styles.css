@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.list-item {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
